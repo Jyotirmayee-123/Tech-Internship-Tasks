@@ -1,12 +1,12 @@
-# Tech-Internship-Tasks
-This repository contains the tasks completed for the Tech Internship.
-
-## Task 1: Calculator
-A simple Python calculator that performs basic arithmetic operations.
-
 ## Task 2: Password Generator
-A Python program that generates random and secure passwords.
 
-## How to Run
-python Calculator/calculator.py  
+A Python program that generates a secure random password.
+
+### Features
+- Generates random password
+- Includes letters, numbers and special characters
+
+### How to Run
+Run the file using:
+
 python Password-Generator/password_generator.py
